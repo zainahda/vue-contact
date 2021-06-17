@@ -1,5 +1,7 @@
 # vue-contact
 
+Latihan membuat contact app mengunakan API https://randomuser.me & axioos
+
 ## Project setup
 ```
 npm install
